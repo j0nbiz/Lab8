@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lab8</string>
+    <string name="title">Dinosaurs list...</string>
+
+    <string name="edmontonia">Edmontonia</string>
+    <string name="gastonia">Gastonia</string>
+    <string name="giganotosaurus">Giganotosaurus</string>
+    <string name="gorgosaurus">Gorgosaurus</string>
+    <string name="minmi">Minmi</string>
+    <string name="saltasaurus">Saltasaurus</string>
+    <string name="saurolophus">Saurolophus</string>
+    <string name="suchomimus">Suchomimus</string>
+    <string name="utahraptor">Utahraptor</string>
+    <string name="yangchuanosaurus">Yanchuanosaurus</string>
+
+    <string name="edmontoniaAbout">This drawing shows the possible appearance of Edmontonia, a dinosaur from the late Cretaceous Period (around 75 million years ago). Edmontonia was a large, armored dinosaur that reached around 6.6 metres (22 feet) in length and featured a number of bony plates and sharp spikes along its back.</string>
+    <string name="gastoniaAbout">This drawing shows the possible appearance of Gastonia, a dinosaur from the early Cretaceous Period (around 125 million years ago). Gastonia featured a sacral shield and large spikes on its shoulders. It was named by James Kirkland in 1998 after remains were found in Utah, USA.</string>
+    <string name="giganotosaurusAbout">This CGI drawing shows the possible appearance of Giganotosaurus, a dinosaur from the late Cretaceous Period (around 100 million years ago). Giganotosaurus was a carnivore (meat eater) that was even bigger than the more well known Tyrannosaurus rex. Its name means \\\'giant southern lizard\\\'.</string>
+    <string name="gorgosaurusAbout">This drawing shows the possible appearance of a Gorgosaurus as it attacks a Parasaurolophus. Gorgosaurus was a Theropod that lived in the late Cretaceous Period (around 75 million years ago). It lived in North America and was from the same family of dinosaurs as the Tyrannosaurus rex, featuring small arms, sharp teeth and a length of around 9 metres (30 feet).</string>
+    <string name="minmiAbout">This drawing shows the possible appearance of Minmi, a small dinosaur from the early Cretaceous Period (around 116 million years ago). Minmi was an armoured dinosaur and like other Ankylosaurs, was a herbivore (plant eater). It was named Minmi after remains were found near the Minmi Crossing in Australia.</string>
+    <string name="saltasaurusAbout">This drawing shows the possible appearance of Saltasaurus, a dinosaur from the late Cretaceous Period (around 70 million years ago). While Saltasaurus was a member of the huge Sauropod family, it was relatively small compared to others such as the Diplodocus and Apatosaurus. It featured small boney plates in its skin that acted as armor, was a herbivore (plant eater) and had an estimated length of a round 12 metres (39 feet).</string>
+    <string name="saurolophusAbout">This CGI drawing shows the possible appearance of Saurolophus, a dinosaur from the late Cretaceous Period (around 69 million years ago). It featured a spike shaped crest which pointed backwards from its skull and is from the same family of dinosaurs as Parasaurolophus. Fossil remains of Saurolophus have been found on more than one continent (North America and Asia).</string>
+    <string name="suchomimusAbout">This CGI drawing shows the possible appearance of Suchomimus, a large Theropod dinosaur from the early Cretaceous Period (around 112 million years ago). Suchomimus had a large mouth like that of a crocodile that featured around 100 teeth. Scientists believe that Suchomimus may have grown to around 12 metres (40 feet) in length.</string>
+    <string name="utahraptorAbout">This drawing shows the possible appearance of Utahraptor, a dinosaur from the early Cretaceous Period (around 124 million years ago). The Utahraptor is a Theropod from a family of dinosaurs called Dromaeosauridae (more commonly known as raptors). The Utahraptor is the largest known member of this family with scientists estimating it could have reached a length of 7 metres (23 feet). Utahraptor fossils were first found in the US state of Utah in 1991.</string>
+    <string name="yangchuanosaurusAbout">This CGI drawing shows the possible appearance of Yangchuanosaurus, a dinosaur from the late Jurassic Period (around 157 million years ago) that may have been up to 10 metres (33 feet) in length. Yangchuanosaurus was a Theropod dinosaur that lived in China. The first fossil skeleton of Yangchuanosaurus was found in the Yongchuan District of China in 1977.</string>
+</resources>
+
+
